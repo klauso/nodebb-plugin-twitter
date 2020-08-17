@@ -1,5 +1,5 @@
 {
-    "name": "nodebb-plugin-twitter",
+    "name": "nodebb-plugin-twitter-klaus",
     "version": "0.1.0",
     "description": "NodeBB Plugin that allows users to embed tweets inline in their posts",
     "main": "library.js",
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/nodebb-community/nodebb-plugin-twitter"
+        "url": "https://github.com/klauso/nodebb-plugin-twitter"
     },
     "keywords": [
         "nodebb",
